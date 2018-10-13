@@ -1,6 +1,6 @@
 # dotfiles-laptop
 
-This repository is a backup of my dotfiles.
+This repository is a backup of my dotfiles for my laptop.
 
 ## Softwares
 
@@ -27,6 +27,7 @@ Some scripts are also present, maily used by Polybar:
 ### Dirty
 
 ![alt tag](https://github.com/frenchieisverige/dotfiles-laptop/blob/master/ressources/dirty.png)
+
 ## TODOs
 
 Some configuration files are still needed to be done:
@@ -35,6 +36,7 @@ Some configuration files are still needed to be done:
 * `lightdm`
 * Firefox CSS
 * GTK3
+* Script deployment with SYMLINK
 
 ## Built With
 
